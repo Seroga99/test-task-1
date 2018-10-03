@@ -1,0 +1,12 @@
+.table {
+    height: 170px;
+    padding: 10px 0 0 10px;
+    margin: auto;
+    width: 280px;
+    border: 1px solid #fff;
+}
+.currency {
+    text-align: left;
+    width: 20%;
+    color: #fff;
+}
